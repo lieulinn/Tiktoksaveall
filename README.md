@@ -1,2 +1,10 @@
-# Tiktoksaveall
-TikTokBulkDownloader adalah aplikasi sederhana namun powerful untuk mengunduh semua video dari akun TikTok publik hanya dengan satu klik. Dengan fitur unduhan massal, penghapusan watermark (opsional), serta pengunduhan cepat menggunakan multi-threading, aplikasi ini sangat berguna untuk backup konten, riset, atau sekadar mengarsipkan video TikTok.
+# TikTokBulkDownloader
+
+Unduh semua video TikTok dari satu profil hanya dengan satu klik.  
+Fitur termasuk penghapusan watermark, filter video, multi-threading untuk kecepatan, dan penyimpanan otomatis berdasarkan profil atau tanggal.
+
+✅ Cepat & efisien  
+✅ Tanpa watermark (opsional)  
+✅ Mendukung profil TikTok publik  
+✅ Dapat digunakan di Windows, macOS, dan Linux  
+✅ UI atau CLI tersedia
